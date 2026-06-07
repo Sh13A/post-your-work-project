@@ -25,3 +25,13 @@ It's important to give proper credit. Add links to any repo that inspired you or
 ## Date created
 
 Include the date you created this project and README file.
+
+## Code Refactoring
+- Improved code readability.
+- Simplified project structure.
+
+## Version History
+
+- Initial project creation.
+- Documentation Update.
+- Refactoring Updates.
