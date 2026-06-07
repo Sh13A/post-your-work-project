@@ -33,3 +33,15 @@ Created as a part of a Git and GitHub learning exercise.
 
 - Added documentation branch improvements.
 - README file updated with additional project details.
+
+## Code Refactoring
+
+- Improved code readability.
+- Simplified project structure.
+
+## Version History
+
+- Initial project creation.
+- Documentation Update.
+- Refactoring Updates.
+
