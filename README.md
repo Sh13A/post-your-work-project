@@ -28,3 +28,8 @@ Created as a part of a Git and GitHub learning exercise.
 ## Date created
 
 07 June 2026
+
+## Update Notes
+
+- Added documentation branch improvements.
+- README file updated with additional project details.
