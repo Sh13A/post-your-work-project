@@ -3,25 +3,28 @@
 
 # Project Title
 
-Describe what your project is about and what it does
+Its a simple python program contains a 'bikeshare.py' project
 
 ## Information about how to use your project
 
 This could include:
 
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+- Clone the repository to the local machine.
+- Navigate to project folder.
+- Run the python file using python bikeshare.py
+- Modify the file if needed and test the changes locally/
 
 ## Contribution guidelines
 
-If you welcome contributions, provide guidelines on how others can contribute to your project.
+- Fork the repository if you want to contribute.
+- Create a new branch for your changes.
+- Make clear meaningful commits.
+- Submit a pull request for review.
 
 ## Credits
 
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Created as a part of a Git and GitHub learning exercise. 
 
 ## Date created
 
-Include the date you created this project and README file.
+07 June 2026
